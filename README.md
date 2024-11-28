@@ -1,4 +1,4 @@
-# Multi-Class CNN Flower Classification
+# CNN-based Multi-Class Flower Classification
 
 ## Project Overview
 
