@@ -31,7 +31,7 @@ This project implements a multi-class Convolutional Neural Network (CNN) for cla
 ## Project Structure
 
 - `flower_classification.ipynb`: Complete CNN implementation
-- `flower_classification_model.h5`: Trained model
+- `flower_classification_model.keras`: Trained model
 - `training_history.png`: Training performance visualization
 
 ## Key Features
